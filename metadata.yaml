@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '7359'
     url: http://www.gutenberg.org/2009/agents/7359
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40681#The-Greville-Memoirs--Third-Part--Volume-II--of-II-A-Journal-of-the-Reign-of-Queen-Victoria-f_
 gutenberg_issued: '2013-10-09'
 gutenberg_type: Text
 identifiers:
